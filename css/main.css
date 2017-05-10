@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: none;
+    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -27,7 +27,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: blue;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -40,5 +40,5 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
+    list-style: bold;
 }
